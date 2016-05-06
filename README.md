@@ -13,7 +13,7 @@ npm install get-mongo-uri -g
 1. Open your terminal and type: `get-mongo-uri`.
 
 <p style="text-align: center">
-  <img src="img/prompt.png" />
+  <img src="img/prompto.png" />
 </p>
 
 ### Use it with json file
@@ -21,7 +21,7 @@ npm install get-mongo-uri -g
 1. Open your terminal and type: `get-mongo-uri -f "mongo-data.json"`.
 
 <p style="text-align: center">
-  <img src="img/file.png" />
+  <img src="img/fileo.png" />
 </p>
 
 
