@@ -29,6 +29,6 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "get-mongo-uri": "./bin/get-mongo-uri"
+    "get-mongo-uri": "./bin/mongo-uri"
   }
 }
