@@ -1,0 +1,21 @@
+{  
+    "username": "user",
+    "password": "pass",
+    "host": "host1",
+    "port": 1111,
+    "replicas": [
+        {
+            "host": "host2",
+            "port": 2222
+        },
+        {
+            "host": "host3",
+            "port": 3333
+        }
+    ],
+    "database": "db",
+    "options": {
+        "w": 0,
+        "readPreference": "secondary"
+    }
+}
