@@ -1,6 +1,6 @@
 {
   "name": "get-mongo-uri",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nodejs command line tool to build mongodb connection strings.",
   "main": "./lib/mongo-uri",
   "repository": "https://github.com/ianaya89/get-mongo-uri",
