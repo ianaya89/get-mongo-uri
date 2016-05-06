@@ -1,4 +1,4 @@
-# html-fixer
+# get-mongo-uri
 :pager: nodejs command line tool to build mongodb connection strings.
 
 ### Installation 
